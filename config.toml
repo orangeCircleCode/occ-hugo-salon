@@ -1,6 +1,6 @@
-baseURL = "localhost:1313"
+baseURL = "https://occ-hugo-salon.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "OCC Salon"
 theme = "hugo-freelancer-theme"
 
 
